@@ -54,4 +54,66 @@ Hypothesis 4: In sales departments, customer satisfaction mediates the relations
 Our results suggest a causal chain, whereby the culture of sales departments affects customer satisfaction, which, inturn, inﬂuences the number of vehicles sold.
 
 
+Does Adding Inventory Increase Sales? Evidence of a Scarcity Effect in U.S. Automobile Dealerships
 
+- Variety Expansion: Adding unique sub-models increases sales.
+- Inventory Duplication: Adding multiple units of the same sub-model decreases sales.
+- Inventory Allocation: Sales can increase without raising inventory levels by focusing on maximizing variety and minimizing duplication at dealerships.
+- A reallocation strategy could yield a 4.4% sales increase without additional inventory, or 5.2% with slight inventory reductions.
+
+Case Study of Today's Automotive Dealerships: Introduction and Delivery of Advanced Driver Assistance Systems
+
+Improved Training: Manufacturers and dealerships should provide more robust and consistent training for salespeople, especially at mass-market dealerships.
+Customer Education: Dealerships should prioritize customer education at purchase and offer follow-up sessions for better technology use.
+Policy and Incentives: Manufacturers might incentivize dealerships to prioritize ADAS education as part of the sales process.
+
+A MEDIATED MODEL OF RELATIONSHIP QUALITY FACTORS AFFECTING BEHAVIOURAL INTENTION AT A LUXURY MOTOR VEHICLE DEALERSHIP
+
+Customer Satisfaction:
+- Directly improves behavioral intentions (e.g., loyalty and positive word-of-mouth).
+- Positively influences customer commitment.
+Commitment:
+- Strengthens the impact of satisfaction on behavioral intentions.
+- Acts as a mediator between customer satisfaction and behavioral intentions.
+Trust:
+- Directly influences commitment but does not significantly affect behavioral intentions on its own.
+- Relationship Dynamics:
+- Behavioral intentions are primarily driven by customer commitment and satisfaction, with trust serving as a foundational factor.
+Managerial Implications:
+- Enhance Customer Satisfaction: Ensure service exceeds expectations to foster long-term loyalty.
+- Build Trust: Consistency, honesty, and fulfilling promises are crucial.
+- Foster Commitment: Highlight long-term relationship benefits to encourage customer retention.
+Recommendations:
+- Invest in continuous service quality improvements and employee training to maintain customer satisfaction.
+- Monitor and address customer trust and commitment through regular feedback mechanisms.
+- Position the dealership as a reliable, long-term partner for servicing luxury vehicles.
+
+TQMin newcar dealerships:  a study from the firms’ perspective
+
+-Clearly senior management of dealerships need to ensure that service quality is integrated into all dealership procedures and ingrained into all levels of the organisation.
+
+Measuring after-sales service quality in automobile retails: An application of the SERVQUAL instruments
+
+-SERVQUAL MODEL to measure service quality 
+
+Commitment to service quality in automotive dealerships: Results from an Australian pilot study
+
+-The study highlighted the importance of addressing customer complaints, with quality issues being the most common grievance.
+-A lack of uniform practices across dealerships affects customer perception and satisfaction.
+
+Web-Based Automobile Service Management System for MAS Motors LLC
+
+- Automobile Service Management Information System (ASMIS)
+- bakground of the paper
+
+Purpose: The system aims to reduce manual processes in the service division's daily operations.
+Features: While specific details are not provided, it likely includes functionalities such as:
+- Vehicle information management
+- Service record keeping
+- Appointment scheduling
+- Customer communication
+Benefits:
+-More organized record-keeping compared to traditional paper-based methods
+-Reduced risk of data loss, damage, or fading
+-Improved efficiency in service management
+Accessibility: As a web-based system, it can be accessed from various devices and platforms, offering flexibility to both the company and its customers1.
